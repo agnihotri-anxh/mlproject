@@ -1,1 +1,1 @@
-## tudent performance prediction
+## Student Performance Prediction
